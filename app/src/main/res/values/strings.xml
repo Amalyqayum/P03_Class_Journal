@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P03_Class_Journal</string>
+    <array name="mods">
+        <item>C347</item>
+    </array>
+</resources>
